@@ -1,6 +1,6 @@
 # 👨‍💻 Nhật ký lập trình lớp 9 của Toàn
 
-Chào mừng bạn đến với kho lưu trữ bài tập Tin học của mình! Đây là nơi mình lưu lại hành trình học tập từ những bước đầu tiên tại quê hương **Thanh Hóa**.
+Chào mừng bạn đến với kho lưu trữ bài tập Tin học của mình! Đây là nơi mình lưu lại hành trình học tập từ những bước đầu tiên .
 
 ### 📁 Cấu trúc kho lưu trữ
 * **Xau-Ky-Tu**: Các bài toán xử lý chuỗi, xâu đối xứng...
